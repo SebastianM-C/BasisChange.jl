@@ -3,6 +3,9 @@ uuid = "a2ede6be-0821-4dfd-a922-afb6ecb29602"
 authors = ["Sebastian Micluța-Câmpeanu <m.c.sebastian95@gmail.com>", "Petru-Vlad Toma <tomapv@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
